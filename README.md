@@ -47,7 +47,7 @@ Real-time Updates: The clock hands move according to the real time.
 
    ```bash
 
-   git clone <repository-link>
+   git clone <https://github.com/JawadAhmad-Pro/Analog-_Clock.git>
 
    ```
 
@@ -73,5 +73,5 @@ Your input matters. If you have ideas or problems, open an issue in the reposito
 
 ---
 
-#made by JawadAhmadPro44
+#made by JawadAhmad-Pro
 
